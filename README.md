@@ -61,3 +61,5 @@ To install a specific version, a version range identifier must be specified. For
 
     [os10]
     os10_sw1 ansible_host=100.104.28.119
+
+(c) 2020 Dell Inc. or its subsidiaries. All rights reserved.
